@@ -71,7 +71,7 @@ body {
 .button {
   color: var(--white-color);
   background-color: var(--blue-color);
-  font-family: Roboto, serif;
+  font-family: Roboto, sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
